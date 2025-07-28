@@ -1,0 +1,15 @@
+- [x] 00-perceptron
+- [ ] 01-classification
+- [ ] 02-pinn
+- [ ] 03-pinn-ode
+- [ ] 04-pde-fdm
+- [ ] 05-pinn-heat-transfer
+- [ ] 06-burgers
+- [ ] 07-ad
+- [ ] 08-deeponet
+- [ ] 09-pi-deeponet
+- [ ] 10-optimization
+- [ ] 11-bayes
+- [ ] 12-gnn
+- [ ] 13-sindy
+- [ ] 14-normalizing-flows
