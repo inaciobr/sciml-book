@@ -1,5 +1,5 @@
 - [x] 00-perceptron
-- [ ] 01-classification
+- [x] 01-classification
 - [ ] 02-pinn
 - [ ] 03-pinn-ode
 - [ ] 04-pde-fdm
