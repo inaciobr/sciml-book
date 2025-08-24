@@ -1,6 +1,6 @@
 - [x] 00-perceptron
 - [x] 01-classification
-- [ ] 02-pinn
+- [x] 02-pinn
 - [ ] 03-pinn-ode
 - [ ] 04-pde-fdm
 - [ ] 05-pinn-heat-transfer
