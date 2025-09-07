@@ -1,9 +1,13 @@
 - [x] 00-perceptron
+    - [x] hw00_perceptron
 - [x] 01-classification
 - [x] 02-pinn
-- [ ] 03-pinn-ode
-- [ ] 04-pde-fdm
+- [x] 03-pinn-ode
+    - [ ] hw02_pinn-ode
+- [x] 04-pde-fdm
+    - [ ] hw03-fd-heat
 - [ ] 05-pinn-heat-transfer
+    - [ ] hw04-pinn-heat
 - [ ] 06-burgers
 - [ ] 07-ad
 - [ ] 08-deeponet
@@ -13,3 +17,5 @@
 - [ ] 12-gnn
 - [ ] 13-sindy
 - [ ] 14-normalizing-flows
+    - [ ] hw05-pinn-inverse
+    - [ ] hw06-ad
